@@ -1,7 +1,35 @@
 ---
-title: "Jiregna-O-Kedida.github.io"
+title: "Laboratory of Biostatistics, Clinical Epidemiology, Public Health & AI"
 ---
 
-This is a Quarto website.
+# Laboratory of Biostatistics, Clinical Epidemiology, Public Health & AI
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Advancing data-driven health research in Ethiopia and beyond
+
+Welcome to the digital home of the **Laboratory of Biostatistics, Clinical Epidemiology, Public Health & AI**.
+
+This platform focuses on:
+- Biostatistics
+- Clinical epidemiology
+- Public health research
+- Bayesian and spatiotemporal modeling
+- Artificial intelligence in health
+- Reproducible research using R and Quarto
+
+## Vision
+
+The long-term vision is to establish an advanced research and training laboratory at **Ambo University, Ethiopia**, supporting:
+- students,
+- researchers,
+- clinicians,
+- and public health professionals.
+
+## Research Areas
+
+- Bayesian statistics
+- Spatial epidemiology
+- Machine learning in healthcare
+- Malaria burden modeling
+- Maternal and child health
+- Public health AI
+- Clinical prediction modeling

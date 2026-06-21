@@ -2,20 +2,28 @@ project:
   type: website
 
 website:
-  title: "Jiregna-O-Kedida.github.io"
+  title: "Laboratory of Biostatistics, Clinical Epidemiology, Public Health & AI"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: lab.qmd
+        text: Lab Vision
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: training.qmd
+        text: Training
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: cosmo
     toc: true
-
-
-
+    css: styles.css
