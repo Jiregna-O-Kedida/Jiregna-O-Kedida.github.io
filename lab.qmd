@@ -1,0 +1,23 @@
+---
+title: "Lab Vision"
+---
+
+# Biostatistics, Epidemiology & Public Health AI Lab
+
+The long-term vision is to establish a research and training laboratory at **Ambo University, Ethiopia** focused on biostatistics, clinical epidemiology, public health analytics, and artificial intelligence for health.
+
+## Mission
+
+To strengthen data-driven health research through statistical innovation, epidemiological methods, reproducible science, and responsible artificial intelligence.
+
+## Core Activities
+
+- Training students and researchers in biostatistics and epidemiology
+- Supporting clinical and public health research design
+- Developing reproducible R and Quarto workflows
+- Applying AI and machine learning to health data
+- Promoting collaborative research in Ethiopia and Africa
+
+## Future Direction
+
+The lab will support research, mentorship, consultancy, short courses, workshops, and collaborative projects in public health and biomedical sciences.

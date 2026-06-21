@@ -10,5 +10,8 @@
   },
   "publications.qmd": {
     "publications.html": "fa68d642"
+  },
+  "lab.qmd": {
+    "lab.html": "fa2c6996"
   }
 }
