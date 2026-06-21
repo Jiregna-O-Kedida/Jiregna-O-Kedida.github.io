@@ -1,0 +1,71 @@
+---
+title: "Publications"
+---
+
+# Publications
+
+## Peer-Reviewed Publications
+
+### Enhancing Healthcare in Africa: A Brief Review of Lung Cancer Prediction and Detection (2025)
+
+Pinto JK, Kasereka SK, Muchapa PT, Ilunga GWK, Mbayandjambe AM, Olani JK, Tashev T, Kyamakya K.
+
+*Procedia Computer Science*, 265, 390–397.
+
+DOI: https://doi.org/10.1016/j.procs.2025.07.196
+
+---
+
+### Factors Influencing Exclusive Breastfeeding Practice among Under-Six-Month Infants in Ethiopia (2022)
+
+Published in *BMC Pregnancy and Childbirth*.
+
+---
+
+### Analysis of Determinants of Neonatal Mortality in Afar and Somalia Regions, Ethiopia (2022)
+
+Published in *Journal of Pharmaceutical Research International*.
+
+---
+
+### Prevalence and Determinants of Anemia among Reproductive-Aged Women in Ethiopia (2021)
+
+Published in *Journal of Pharmaceutical Research International*.
+
+---
+
+# Manuscripts Under Review
+
+### Bayesian Multilevel Logistic Regression Model on Infant Mortality in Ethiopia: Evidence from EDHS 2019
+
+Under review in *Journal of Big Data*.
+
+---
+
+### Determinants of Infant Mortality in Ethiopia: A Multilevel Count Regression Models
+
+Under review in *BMC Pregnancy and Childbirth*.
+
+---
+
+### Missed Opportunities in Maternal Healthcare Utilization and Neonatal Mortality in Ethiopia
+
+Under review in *Journal of Big Data*.
+
+---
+
+### An Interpretable Data-Mining Model for Predicting Missed Newborn Postnatal Care in Ethiopia
+
+Conference paper at EUSPN-26, *Procedia Computer Science*.
+
+---
+
+# Research Interests
+
+- Bayesian modeling
+- Spatial epidemiology
+- Public health AI
+- Federated learning
+- Clinical prediction modeling
+- Maternal and child health
+- Malaria burden analysis
