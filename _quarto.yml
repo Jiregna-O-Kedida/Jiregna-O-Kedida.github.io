@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Laboratory of Biostatistics, Clinical Epidemiology, Public Health & AI"
+  title: "Jiregna Olani Kedida"
   navbar:
     left:
       - href: index.qmd
