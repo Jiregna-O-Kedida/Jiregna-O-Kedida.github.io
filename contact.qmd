@@ -2,6 +2,11 @@
 title: "Contact"
 ---
 
+## Download CV
+
+[Download my CV](files/Jiregna_Olani_Kedida_CV.pdf){.btn .btn-primary}
+
+
 # Contact
 
 ## Jiregna Olani Kedida
