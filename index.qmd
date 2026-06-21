@@ -2,6 +2,8 @@
 title: "Jiregna Olani Kedida"
 ---
 
+![](images/profile.jpg){fig-align="center" width="220"}
+
 ::: {.hero-section}
 # Jiregna Olani Kedida
 
