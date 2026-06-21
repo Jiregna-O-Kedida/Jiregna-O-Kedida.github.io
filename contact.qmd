@@ -1,0 +1,28 @@
+---
+title: "Contact"
+---
+
+# Contact
+
+## Jiregna Olani Kedida
+
+PhD Candidate in Biostatistics, Epidemiology & Public Health  
+University of Padova, Italy
+
+Lecturer in Statistics  
+Ambo University, Ethiopia
+
+## Email
+
+- jiregnaolani.kedida@phd.unipd.it
+- jiregna.olani@ambou.edu.et
+
+## Research Profiles
+
+- ORCID: https://orcid.org/0000-0002-5877-7977
+- LinkedIn: https://www.linkedin.com/in/jiregna-olani-kedida-45380198/
+- GitHub: https://github.com/Jiregna-O-Kedida
+
+## Collaboration
+
+I welcome collaborations in biostatistics, clinical epidemiology, public health research, Bayesian modeling, machine learning, and artificial intelligence for health.
