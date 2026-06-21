@@ -1,0 +1,38 @@
+---
+title: "Training"
+---
+
+# Training and Capacity Building
+
+This section is dedicated to training, short courses, tutorials, and capacity-building activities in biostatistics, epidemiology, public health, and artificial intelligence.
+
+## Training Areas
+
+### Biostatistics
+- Introduction to biostatistics
+- Regression modeling
+- Survival analysis
+- Multilevel modeling
+- Bayesian statistics
+
+### Epidemiology
+- Clinical epidemiology
+- Public health study design
+- Maternal and child health research
+- Disease burden analysis
+
+### Statistical Software
+- R programming
+- Quarto for reproducible research
+- REDCap for research data management
+- STATA, SPSS, and SAS
+
+### Artificial Intelligence in Health
+- Machine learning for health data
+- Interpretable AI
+- Federated learning
+- AI for public health decision-making
+
+## Future Training Vision
+
+The laboratory will provide workshops, tutorials, mentoring, and collaborative training for students, researchers, clinicians, and public health professionals in Ethiopia and beyond.
