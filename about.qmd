@@ -2,4 +2,94 @@
 title: "About"
 ---
 
-About this site
+# About Me
+
+## Jiregna Olani Kedida
+
+PhD Candidate in Biostatistics, Epidemiology & Public Health  
+University of Padova, Italy
+
+Lecturer in Statistics  
+Ambo University, Ethiopia
+
+---
+
+I am a biostatistician, epidemiologist, researcher, and academic lecturer with expertise in statistical modeling, public health analytics, clinical epidemiology, and artificial intelligence for health research.
+
+My academic and professional journey spans more than a decade in teaching, research, consultancy, and interdisciplinary collaboration. Since 2013, I have been teaching statistical science courses in Ethiopian universities while actively participating in research and capacity-building activities.
+
+My current research focuses on:
+
+- Bayesian statistical modeling
+- Spatial and spatiotemporal epidemiology
+- Machine learning and federated learning
+- Clinical prediction modeling
+- Maternal and child health
+- Malaria burden modeling
+- Artificial intelligence in healthcare
+- Reproducible research using R and Quarto
+
+I am currently pursuing a PhD in Biostatistics, Epidemiology, and Public Health at the University of Padova, where my work explores innovative methodologies for clinical and public health research using advanced statistical and AI-driven approaches.
+
+## Academic Vision
+
+My long-term vision is to establish a strong research and training laboratory in Ethiopia focused on:
+
+- Biostatistics
+- Clinical epidemiology
+- Public health analytics
+- Artificial intelligence for healthcare
+- Open science and reproducible research
+
+The laboratory aims to support students, researchers, clinicians, and institutions through training, collaborative research, and methodological innovation.
+
+## Education
+
+- PhD Candidate in Biostatistics, Epidemiology & Public Health — University of Padova
+- MSc in Statistics (Biostatistics) — Addis Ababa University
+- BSc in Statistics — Mekelle University
+
+## Professional Experience
+
+### Ambo University (2017–Present)
+- Lecturer in Statistics
+- Research advisor
+- Academic and research collaboration leadership
+
+### Mekelle University (2013–2017)
+- Lecturer in Statistics
+- Research mentorship and academic support
+
+## Technical Skills
+
+- R
+- SAS
+- STATA
+- SPSS
+- REDCap
+- Epi Info
+- MlWin
+- Bayesian modeling
+- Machine learning
+- Federated learning
+- Data visualization
+
+## Professional Memberships
+
+- Ethiopian Statistical Association
+- International Biometric Society
+- Computational Sciences and Engineering Society of Ethiopia
+
+## International Academic Activities
+
+I have actively participated in international conferences and workshops related to:
+
+- Artificial intelligence in biomedical research
+- Federated learning
+- Big data in public health
+- Statistical modeling
+- Clinical epidemiology
+
+## Research Philosophy
+
+I believe that advanced statistical science and artificial intelligence should be translated into practical healthcare solutions that improve public health systems, especially in low- and middle-income countries.
