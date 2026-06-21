@@ -21,32 +21,60 @@
     "text": "My current work emphasizes Bayesian spatiotemporal modeling, malaria burden estimation, maternal and newborn health analytics, and federated learning for privacy-preserving healthcare research."
   },
   {
-    "objectID": "lab.html",
-    "href": "lab.html",
-    "title": "Lab Vision",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "The long-term vision is to establish a research and training laboratory at Ambo University, Ethiopia focused on biostatistics, clinical epidemiology, public health analytics, and artificial intelligence for health.\n\n\nTo strengthen data-driven health research through statistical innovation, epidemiological methods, reproducible science, and responsible artificial intelligence.\n\n\n\n\nTraining students and researchers in biostatistics and epidemiology\nSupporting clinical and public health research design\nDeveloping reproducible R and Quarto workflows\nApplying AI and machine learning to health data\nPromoting collaborative research in Ethiopia and Africa\n\n\n\n\nThe lab will support research, mentorship, consultancy, short courses, workshops, and collaborative projects in public health and biomedical sciences."
+    "text": "This project focuses on modeling malaria burden in Ethiopia using Bayesian hierarchical spatiotemporal methods and Global Burden of Disease estimates.\n\n\n\nResearch projects focused on maternal healthcare utilization, newborn postnatal care, neonatal mortality, and infant mortality using Ethiopian health survey data.\n\n\n\nApplication of machine learning, interpretable AI, and clinical prediction models for public health and biomedical research.\n\n\n\nDevelopment and application of privacy-preserving federated learning methods for multi-center healthcare data analysis.\n\n\n\nDevelopment of open, transparent, and reproducible workflows using R, Quarto, GitHub, and statistical programming tools.\n\n\n\n\n\nMalaria and infectious disease modeling\nMaternal and child health prediction\nClinical epidemiology and survival analysis\nAI-assisted public health decision-making\nStatistical training materials for students and researchers"
   },
   {
-    "objectID": "lab.html#mission",
-    "href": "lab.html#mission",
-    "title": "Lab Vision",
+    "objectID": "projects.html#current-and-ongoing-research-projects",
+    "href": "projects.html#current-and-ongoing-research-projects",
+    "title": "Projects",
     "section": "",
-    "text": "To strengthen data-driven health research through statistical innovation, epidemiological methods, reproducible science, and responsible artificial intelligence."
+    "text": "This project focuses on modeling malaria burden in Ethiopia using Bayesian hierarchical spatiotemporal methods and Global Burden of Disease estimates.\n\n\n\nResearch projects focused on maternal healthcare utilization, newborn postnatal care, neonatal mortality, and infant mortality using Ethiopian health survey data.\n\n\n\nApplication of machine learning, interpretable AI, and clinical prediction models for public health and biomedical research.\n\n\n\nDevelopment and application of privacy-preserving federated learning methods for multi-center healthcare data analysis.\n\n\n\nDevelopment of open, transparent, and reproducible workflows using R, Quarto, GitHub, and statistical programming tools."
   },
   {
-    "objectID": "lab.html#core-activities",
-    "href": "lab.html#core-activities",
-    "title": "Lab Vision",
+    "objectID": "projects.html#future-project-areas",
+    "href": "projects.html#future-project-areas",
+    "title": "Projects",
     "section": "",
-    "text": "Training students and researchers in biostatistics and epidemiology\nSupporting clinical and public health research design\nDeveloping reproducible R and Quarto workflows\nApplying AI and machine learning to health data\nPromoting collaborative research in Ethiopia and Africa"
+    "text": "Malaria and infectious disease modeling\nMaternal and child health prediction\nClinical epidemiology and survival analysis\nAI-assisted public health decision-making\nStatistical training materials for students and researchers"
   },
   {
-    "objectID": "lab.html#future-direction",
-    "href": "lab.html#future-direction",
-    "title": "Lab Vision",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jiregna Olani Kedida",
     "section": "",
-    "text": "The lab will support research, mentorship, consultancy, short courses, workshops, and collaborative projects in public health and biomedical sciences."
+    "text": "I am a PhD candidate in Biostatistics, Epidemiology, and Public Health at the University of Padova and a Lecturer in Statistics at Ambo University, Ethiopia. My work focuses on statistical modeling, epidemiological methods, machine learning, federated learning, and data-driven public health research.\nAbout Me Research Publications"
+  },
+  {
+    "objectID": "index.html#biostatistics-clinical-epidemiology-public-health-artificial-intelligence",
+    "href": "index.html#biostatistics-clinical-epidemiology-public-health-artificial-intelligence",
+    "title": "Jiregna Olani Kedida",
+    "section": "",
+    "text": "I am a PhD candidate in Biostatistics, Epidemiology, and Public Health at the University of Padova and a Lecturer in Statistics at Ambo University, Ethiopia. My work focuses on statistical modeling, epidemiological methods, machine learning, federated learning, and data-driven public health research.\nAbout Me Research Publications"
+  },
+  {
+    "objectID": "index.html#biostatistics-epidemiology-public-health-ai-lab",
+    "href": "index.html#biostatistics-epidemiology-public-health-ai-lab",
+    "title": "Jiregna Olani Kedida",
+    "section": "Biostatistics, Epidemiology & Public Health AI Lab",
+    "text": "Biostatistics, Epidemiology & Public Health AI Lab\nThe long-term vision is to build a research and training platform that supports students, researchers, clinicians, and public health professionals in Ethiopia and beyond."
+  },
+  {
+    "objectID": "index.html#research-focus",
+    "href": "index.html#research-focus",
+    "title": "Jiregna Olani Kedida",
+    "section": "Research Focus",
+    "text": "Research Focus\n\n\nBiostatistics\nStatistical modeling, regression methods, Bayesian analysis, and clinical prediction models.\n\n\nClinical Epidemiology\nMaternal and child health, disease burden, survival analysis, and public health evidence.\n\n\nPublic Health AI\nMachine learning, federated learning, reproducible research, and AI for health systems."
+  },
+  {
+    "objectID": "index.html#current-academic-direction",
+    "href": "index.html#current-academic-direction",
+    "title": "Jiregna Olani Kedida",
+    "section": "Current Academic Direction",
+    "text": "Current Academic Direction\nMy current research interests include Bayesian spatiotemporal modeling, malaria burden estimation, maternal and newborn health analytics, interpretable machine learning, and privacy-preserving federated learning."
   },
   {
     "objectID": "about.html",
@@ -112,39 +140,32 @@
     "text": "I believe that advanced statistical science and artificial intelligence should be translated into practical healthcare solutions that improve public health systems, especially in low- and middle-income countries."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jiregna Olani Kedida",
+    "objectID": "lab.html",
+    "href": "lab.html",
+    "title": "Lab Vision",
     "section": "",
-    "text": "I am a PhD candidate in Biostatistics, Epidemiology, and Public Health at the University of Padova and a Lecturer in Statistics at Ambo University, Ethiopia. My work focuses on statistical modeling, epidemiological methods, machine learning, federated learning, and data-driven public health research.\nAbout Me Research Publications"
+    "text": "The long-term vision is to establish a research and training laboratory at Ambo University, Ethiopia focused on biostatistics, clinical epidemiology, public health analytics, and artificial intelligence for health.\n\n\nTo strengthen data-driven health research through statistical innovation, epidemiological methods, reproducible science, and responsible artificial intelligence.\n\n\n\n\nTraining students and researchers in biostatistics and epidemiology\nSupporting clinical and public health research design\nDeveloping reproducible R and Quarto workflows\nApplying AI and machine learning to health data\nPromoting collaborative research in Ethiopia and Africa\n\n\n\n\nThe lab will support research, mentorship, consultancy, short courses, workshops, and collaborative projects in public health and biomedical sciences."
   },
   {
-    "objectID": "index.html#biostatistics-clinical-epidemiology-public-health-artificial-intelligence",
-    "href": "index.html#biostatistics-clinical-epidemiology-public-health-artificial-intelligence",
-    "title": "Jiregna Olani Kedida",
+    "objectID": "lab.html#mission",
+    "href": "lab.html#mission",
+    "title": "Lab Vision",
     "section": "",
-    "text": "I am a PhD candidate in Biostatistics, Epidemiology, and Public Health at the University of Padova and a Lecturer in Statistics at Ambo University, Ethiopia. My work focuses on statistical modeling, epidemiological methods, machine learning, federated learning, and data-driven public health research.\nAbout Me Research Publications"
+    "text": "To strengthen data-driven health research through statistical innovation, epidemiological methods, reproducible science, and responsible artificial intelligence."
   },
   {
-    "objectID": "index.html#biostatistics-epidemiology-public-health-ai-lab",
-    "href": "index.html#biostatistics-epidemiology-public-health-ai-lab",
-    "title": "Jiregna Olani Kedida",
-    "section": "Biostatistics, Epidemiology & Public Health AI Lab",
-    "text": "Biostatistics, Epidemiology & Public Health AI Lab\nThe long-term vision is to build a research and training platform that supports students, researchers, clinicians, and public health professionals in Ethiopia and beyond."
+    "objectID": "lab.html#core-activities",
+    "href": "lab.html#core-activities",
+    "title": "Lab Vision",
+    "section": "",
+    "text": "Training students and researchers in biostatistics and epidemiology\nSupporting clinical and public health research design\nDeveloping reproducible R and Quarto workflows\nApplying AI and machine learning to health data\nPromoting collaborative research in Ethiopia and Africa"
   },
   {
-    "objectID": "index.html#research-focus",
-    "href": "index.html#research-focus",
-    "title": "Jiregna Olani Kedida",
-    "section": "Research Focus",
-    "text": "Research Focus\n\n\nBiostatistics\nStatistical modeling, regression methods, Bayesian analysis, and clinical prediction models.\n\n\nClinical Epidemiology\nMaternal and child health, disease burden, survival analysis, and public health evidence.\n\n\nPublic Health AI\nMachine learning, federated learning, reproducible research, and AI for health systems."
-  },
-  {
-    "objectID": "index.html#current-academic-direction",
-    "href": "index.html#current-academic-direction",
-    "title": "Jiregna Olani Kedida",
-    "section": "Current Academic Direction",
-    "text": "Current Academic Direction\nMy current research interests include Bayesian spatiotemporal modeling, malaria burden estimation, maternal and newborn health analytics, interpretable machine learning, and privacy-preserving federated learning."
+    "objectID": "lab.html#future-direction",
+    "href": "lab.html#future-direction",
+    "title": "Lab Vision",
+    "section": "",
+    "text": "The lab will support research, mentorship, consultancy, short courses, workshops, and collaborative projects in public health and biomedical sciences."
   },
   {
     "objectID": "publications.html",

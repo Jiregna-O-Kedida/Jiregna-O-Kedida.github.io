@@ -1,0 +1,35 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+## Current and Ongoing Research Projects
+
+### Bayesian Spatiotemporal Modeling of Malaria Burden in Ethiopia
+
+This project focuses on modeling malaria burden in Ethiopia using Bayesian hierarchical spatiotemporal methods and Global Burden of Disease estimates.
+
+### Maternal and Newborn Health Analytics
+
+Research projects focused on maternal healthcare utilization, newborn postnatal care, neonatal mortality, and infant mortality using Ethiopian health survey data.
+
+### Public Health Artificial Intelligence
+
+Application of machine learning, interpretable AI, and clinical prediction models for public health and biomedical research.
+
+### Federated Learning for Healthcare Research
+
+Development and application of privacy-preserving federated learning methods for multi-center healthcare data analysis.
+
+### Reproducible Research Platform
+
+Development of open, transparent, and reproducible workflows using R, Quarto, GitHub, and statistical programming tools.
+
+## Future Project Areas
+
+- Malaria and infectious disease modeling
+- Maternal and child health prediction
+- Clinical epidemiology and survival analysis
+- AI-assisted public health decision-making
+- Statistical training materials for students and researchers
