@@ -1,42 +1,78 @@
 ---
-title: "Jiregna Olani Kedida"
+title: "Home"
 ---
 
-![](images/profile.jpg){fig-align="center" width="220"}
+::: {.hero-layout}
 
-::: {.hero-section}
+::: {.hero-text}
+
 # Jiregna Olani Kedida
 
 ## Biostatistics | Clinical Epidemiology | Public Health | Artificial Intelligence
 
-I am a PhD candidate in **Biostatistics, Epidemiology, and Public Health** at the University of Padova and a Lecturer in Statistics at **Ambo University, Ethiopia**. My work focuses on statistical modeling, epidemiological methods, machine learning, federated learning, and data-driven public health research.
+PhD Candidate in Biostatistics, Epidemiology & Public Health at the University of Padova and Lecturer in Statistics at Ambo University, Ethiopia.
 
-[About Me](about.qmd){.btn .btn-primary} [Research](research.qmd){.btn .btn-secondary} [Publications](publications.qmd){.btn .btn-secondary}
+My research focuses on Bayesian modeling, epidemiology, machine learning, federated learning, and public health AI.
+
+[About Me](about.qmd){.btn .btn-primary}
+[Research](research.qmd){.btn .btn-secondary}
+[Publications](publications.qmd){.btn .btn-secondary}
+[Download CV](files/Jiregna_Olani_Kedida_CV.pdf){.btn .btn-success}
+
 :::
 
-## Biostatistics, Epidemiology & Public Health AI Lab
+::: {.hero-image}
 
-The long-term vision is to build a research and training platform that supports students, researchers, clinicians, and public health professionals in Ethiopia and beyond.
+![](images/profile.jpg){.profile-image}
 
-## Research Focus
+:::
+
+:::
+
+---
+
+# Biostatistics, Epidemiology & Public Health AI Lab
+
+A future interdisciplinary research and training laboratory focused on:
+- Biostatistics
+- Clinical Epidemiology
+- Public Health Analytics
+- Artificial Intelligence for Healthcare
+- Reproducible Research
+
+---
+
+# Research Focus
 
 ::: {.grid}
-::: {.g-col-4 .card-box}
-### Biostatistics
-Statistical modeling, regression methods, Bayesian analysis, and clinical prediction models.
-:::
 
 ::: {.g-col-4 .card-box}
-### Clinical Epidemiology
-Maternal and child health, disease burden, survival analysis, and public health evidence.
+## Biostatistics
+
+Bayesian modeling, multilevel models, survival analysis, clinical prediction modeling, and statistical inference.
 :::
 
 ::: {.g-col-4 .card-box}
-### Public Health AI
-Machine learning, federated learning, reproducible research, and AI for health systems.
-:::
+## Epidemiology
+
+Maternal and child health, disease burden estimation, clinical studies, and public health analytics.
 :::
 
-## Current Academic Direction
+::: {.g-col-4 .card-box}
+## Public Health AI
 
-My current research interests include Bayesian spatiotemporal modeling, malaria burden estimation, maternal and newborn health analytics, interpretable machine learning, and privacy-preserving federated learning.
+Machine learning, federated learning, interpretable AI, and privacy-preserving healthcare analytics.
+:::
+
+:::
+
+---
+
+# Current Academic Direction
+
+Current research interests include:
+- Bayesian spatiotemporal malaria modeling
+- Maternal and newborn health analytics
+- Federated learning for healthcare
+- Public health AI
+- Reproducible statistical research
