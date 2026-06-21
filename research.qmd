@@ -1,0 +1,28 @@
+---
+title: "Research"
+---
+
+# Research
+
+My research focuses on applying advanced biostatistical, epidemiological, and artificial intelligence methods to clinical and public health problems.
+
+## Research Themes
+
+### Biostatistics and Statistical Modeling
+Regression modeling, Bayesian methods, multilevel models, survival analysis, and clinical prediction models.
+
+### Clinical Epidemiology
+Design and analysis of clinical and observational studies, disease risk modeling, and evidence generation for healthcare decision-making.
+
+### Public Health Analytics
+Maternal and child health, malaria burden, infectious diseases, non-communicable diseases, and health service utilization.
+
+### Artificial Intelligence in Health
+Machine learning, interpretable AI, federated learning, privacy-preserving analytics, and AI-supported clinical research.
+
+### Reproducible Research
+Use of R, Quarto, GitHub, and open science tools for transparent and reproducible health research.
+
+## Current Research Direction
+
+My current work emphasizes Bayesian spatiotemporal modeling, malaria burden estimation, maternal and newborn health analytics, and federated learning for privacy-preserving healthcare research.
